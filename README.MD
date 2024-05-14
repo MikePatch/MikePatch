@@ -1,11 +1,11 @@
 # 👋 Hello! Nice to see you 😊
 
-### I'm Michał and I'm *front-end* lover. 🙌
+### I'm Michał and I'm *web development* lover. 🙌
 
 I've been passionate about creating websites since I can remember 😃. \
 Already at school, it was my hobby 👨‍🎓 – so my dream job is to create and work in this profession 💻🛠️.
 
-Currently, I've focused on serious learning  front-end development 🚀.\
+Currently, I've focused on serious learning web development and AI 🚀. \
 
 ---
 ### 🛠️ Technologies and tools I'm using
