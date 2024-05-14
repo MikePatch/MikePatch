@@ -5,7 +5,7 @@
 I've been passionate about creating websites since I can remember 😃. \
 Already at school, it was my hobby 👨‍🎓 – so my dream job is to create and work in this profession 💻🛠️.
 
-Currently, I've focused on serious learning web development and AI 🚀. \
+Currently, I've focused on serious learning web development and AI 🚀. 
 
 ---
 ### 🛠️ Technologies and tools I'm using
