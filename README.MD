@@ -34,7 +34,7 @@ I'm currently learning – ![NestJS](https://img.shields.io/badge/NestJS-E0234E.
 ### 📧 You can contact me on  
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michallata/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-](mailto:mikepatch.code@gmail.com)
+](mailto:michallata.dev@gmail.com)
 
 ### 💭 Quotes
 
